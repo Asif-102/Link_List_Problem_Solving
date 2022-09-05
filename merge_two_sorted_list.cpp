@@ -54,7 +54,7 @@ public:
 
         ListNode *a = list1;
         ListNode *b = list2;
-
+    
         while (a != NULL && b != NULL)
         {
             if (a->val <= b->val)
